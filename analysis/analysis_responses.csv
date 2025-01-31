@@ -1,0 +1,192 @@
+prompt,context,response,emotionally_supportive,supportive_actual
+Bombed the presentation. Feeling terrified of failing the class.,Terrified,i am glad you are okay ,1,1
+Aced a difficult exam! Feeling joyful and proud.,Joyful,i know_comma_ i felt so bad for the first time ,1,1
+Feeling lonely and isolated in my dorm.,Lonely,i am sorry to hear that ,1,1
+Grateful for the support of my friends.,Grateful,i am sure you will be happy for the best ,1,1
+Feeling disgusted by a mess someone left in the shared kitchen.,Disgusted,can not even if i found a hair in it ,1,1
+Feeling excited about the upcoming semester.,Excited,i am excited for the new super smash bros ,1,1
+Didn't study enough for an upcoming exam. Feeling unprepared.,Unprepared,i was so nervous and ready to get my grades back ,1,1
+Feeling jealous of a classmate's perfect grades.,Jealous,i am sure you will be fine ,1,1
+Feeling anxious about a group project presentation.,Anxious,i am sure you will be getting it ,1,1
+Feeling content after finishing a long study session.,Content,i am feeling very happy and relieved to go to the pharmacy to start ,0,1
+Feeling disappointed about a bad grade on a paper.,Disappointed,i am sure you will have a good time ,1,1
+Professor complimented my participation in class. Feeling proud.,Proud,i am happy for you ,1,1
+Feeling overwhelmed with the workload this semester.,Stressed,i am sure you will be fine ,1,1
+Lost my student ID. Feeling frustrated and worried.,Frustrated,how much did you get ,0,1
+Feeling hopeful about the future after a successful internship.,Hopeful,i hope so i think i will get the job ,0,1
+Feeling apprehensive about meeting my professor's office hours.,Apprehensive,i am sure you will be fine ,1,1
+Feeling guilty about procrastinating on an assignment.,Guilty,i feel so bad about myself ,0,1
+Feeling surprised by a surprise quiz in class.,Surprised,i was shocked by a friend of mine recently ,1,1
+Feeling nostalgic about memories from high school.,Nostalgic,i was feeling good about my childhood and high school ,1,1
+Feeling confident about my upcoming presentation.,Confident,i am sure you will do great ,1,1
+Feeling furious about a professor's unfair grading policy.,Furious,i dont know why they are just being rude and they are just rude to the <OUT> ,1,1
+Feeling disappointed after a friend cancels plans.,Disappointed,i am going to be a bit more <OUT> but i am stuck at work ,0,1
+Feeling caring towards a classmate who is struggling.,Caring,that is awesome i wish i could be more than a year ,1,1
+Feeling trusting towards my professor's guidance.,Trusting,i am glad you are okay ,1,1
+Feeling disgusted by a rude comment from a classmate.,Disgusted,what kind of food do you have ,1,1
+Feeling apprehensive about starting a new class.,Apprehensive,i am sure you will be fine ,1,1
+Feeling anxious about making new friends on campus.,Anxious,i am sure you will be fine ,1,1
+Feeling hopeful about my chances of getting a scholarship.,Hopeful,i am sure you will be proud of your future ,1,1
+Feeling content with my decision to major in this subject.,Content,that is great to hear ,1,1
+Feeling impressed by a classmate's insightful presentation.,Impressed,that is great i bet she is doing better ,1,1
+Feeling frustrated about a technical issue during an online exam.,Frustrated,i am sure it was a good thing ,1,1
+Feeling devastated after a close friend moves away.,Devastated,that is sad i am sorry to hear that ,1,1
+Bombed the presentation. Feeling terrified of failing the class.,Terrified,i am glad you are okay ,1,1
+Aced a difficult exam! Feeling joyful and proud.,Joyful,i know_comma_ i felt so bad for the first time ,1,1
+Feeling lonely and isolated in my dorm.,Lonely,i am sorry to hear that ,1,1
+Grateful for the support of my friends.,Grateful,i am sure you will be happy for the best ,1,1
+Feeling disgusted by a mess someone left in the shared kitchen.,Disgusted,can not even if i found a hair in it ,0,1
+Feeling excited about the upcoming semester.,Excited,i am excited for the new super smash bros ,1,1
+Didn't study enough for an upcoming exam. Feeling unprepared.,Unprepared,i was so nervous and ready to get my grades back ,1,1
+Feeling jealous of a classmate's perfect grades.,Jealous,i am sure you will be fine ,1,1
+Feeling anxious about a group project presentation.,Anxious,i am sure you will be getting it ,1,1
+Feeling content after finishing a long study session.,Content,i am feeling very happy and relieved to go to the pharmacy to start ,0,1
+Feeling disappointed about a bad grade on a paper.,Disappointed,i am sure you will have a good time ,1,1
+Professor complimented my participation in class. Feeling proud.,Proud,i am happy for you ,1,1
+Feeling overwhelmed with the workload this semester.,Stressed,i am sure you will be fine ,1,1
+Lost my student ID. Feeling frustrated and worried.,Frustrated,how much did you get ,0,1
+Feeling hopeful about the future after a successful internship.,Hopeful,i hope so i think i will get the job ,1,1
+Feeling apprehensive about meeting my professor's office hours.,Apprehensive,i am sure you will be fine ,1,1
+Feeling guilty about procrastinating on an assignment.,Guilty,i feel so bad about myself ,1,1
+Feeling surprised by a surprise quiz in class.,Surprised,i was shocked by a friend of mine recently ,1,1
+Feeling nostalgic about memories from high school.,Nostalgic,i was feeling good about my childhood and high school ,1,1
+Feeling confident about my upcoming presentation.,Confident,i am sure you will do great ,1,1
+Feeling furious about a professor's unfair grading policy.,Furious,i dont know why they are just being rude and they are just rude to the <OUT> ,1,1
+Feeling disappointed after a friend cancels plans.,Disappointed,i am going to be a bit more <OUT> but i am stuck at work ,1,1
+Feeling caring towards a classmate who is struggling.,Caring,that is awesome i wish i could be more than a year ,1,1
+Feeling trusting towards my professor's guidance.,Trusting,i am glad you are okay ,1,1
+Feeling disgusted by a rude comment from a classmate.,Disgusted,what kind of food do you have ,1,1
+Feeling apprehensive about starting a new class.,Apprehensive,i am sure you will be fine ,1,1
+Feeling anxious about making new friends on campus.,Anxious,i am sure you will be fine ,1,1
+Feeling hopeful about my chances of getting a scholarship.,Hopeful,i am sure you will be proud of your future ,1,1
+Feeling content with my decision to major in this subject.,Content,that is great to hear ,1,1
+Feeling impressed by a classmate's insightful presentation.,Impressed,that is great i bet she is doing better ,1,1
+Feeling frustrated about a technical issue during an online exam.,Frustrated,i am sure it was a good thing ,1,1
+Feeling devastated after a close friend moves away.,Devastated,that is sad i am sorry to hear that ,1,1
+Witnessed a classmate being bullied. Feeling angry and...,Helpless,can be so hard to deal with ,1,1
+Professor cancelled class last minute. Feeling annoyed and...,Disrupted,i am sorry to hear that ,1,1
+Roommate borrowed my notes and didn't return them. Feeling frustrated and...,Inconsiderate,report him to the store he asked me to pay him back ,0,1
+Struggling to understand a complex concept. Feeling confused and...,Discouraged,i am sure it will not be an awful person to help you ,1,1
+Aced a surprise quiz! Feeling joyful and...,Surprised,it was a great feeling to have a good time ,1,1
+Feeling envious of a friend's exciting internship.,Jealous,i am sure you will be getting a big one ,1,1
+Feeling grateful for the opportunity to study abroad.,Grateful,i am sure you will be happy for you ,1,1
+Professor expects everyone to participate actively. Feeling anxious and...,Self-conscious,right true ,1,1
+Finished a group project with a difficult team member. Feeling relieved and...,Exhausted,i am glad to hear that what kind of work do ,0,1
+Feeling overwhelmed by the cost of textbooks.,Stressed,i know the feeling i have been there for the last couple of months and i feel so bad for the <PAD> <PAD> <PAD> ,0,1
+Professor postponed an exam due to unforeseen circumstances. Feeling relieved and...,Confused,employee of work for a party for my job_comma_ and i am not sure if i will not <PAD> <PAD> <PAD> <PAD> <PAD> <PAD> ,0,1
+Feeling proud after overcoming a personal challenge.,Proud,i am so proud of myself ,1,1
+Feeling burnt out from juggling school and work.,Stressed,i am sure you will find something soon ,1,1
+Lost my phone with all my important notes. Feeling frustrated and...,Worried,hopefully they will not be able to get it ,1,1
+Feeling hopeful about acing an upcoming exam.,Hopeful,i hope so too ,1,1
+Feeling unprepared for a pop quiz in class.,Anxious,i am sure you will be fine ,1,1
+Feeling guilty about missing a class due to illness.,Guilty,i feel kinda bad about myself ,1,1
+Feeling surprised by a gift from a friend.,Surprised,that is awesome what kind of music ,1,1
+Feeling nostalgic about childhood memories.,Nostalgic,i agree with you i wish you all the best of your youth ,1,1
+Feeling confident about acing the final exam.,Confident,i know it was hard but i think i will get the promotion ,1,1
+Feeling furious about a cheating incident in class.,Furious,i am sorry to hear that ,1,1
+Feeling disappointed about missing out on a club event.,Disappointed,i am sorry to hear that ,1,1
+Feeling caring towards a classmate who is feeling homesick.,Caring,that is awesome i wish i could be more considerate of others ,1,1
+Feeling trusting towards a friend who confided in me.,Trusting,that is great to hear ,1,1
+Feeling disgusted by a dirty public restroom on campus.,Disgusted,i was so embarrassed when i saw my dog poop on the floor ,1,1
+Feeling nervous about asking a professor a question.,Anxious,i understand that_comma_ it happens to me ,1,1
+Feeling hopeful about landing a summer job.,Hopeful,i hope so too ,1,1
+Feeling frustrated about a slow internet connection in the library.,Frustrated,i have a friend who has been in a <OUT> place in a row in the city ,1,1
+Feeling anxious about giving a presentation in a foreign language class.,Anxious,is it a big deal ,1,1
+Feeling overwhelmed by social media pressure.,Stressed,that is great_comma_ it is a lot of people who have to protect us ,1,1
+Professor assigns a group project with unclear instructions.,Confused,i am sure he will be able to take a break from work ,1,1
+Aced a class presentation! Feeling proud and...,Relieved,i worked hard for it ,1,1
+Feeling envious of classmates who seem to have it all together.,Jealous,i am glad you have a great time ,1,1
+Feeling grateful for a supportive professor.,Grateful,i am beyond thankful for my life ,1,1
+Feeling anxious about fitting in with a new group project team.,Anxious,area with the kids through the new job ,1,1
+Completed a challenging assignment early. Feeling content and...,Prepared,i am glad you are feeling better now ,1,1
+Feeling disappointed about a cancelled lecture.,Disappointed,i am sorry_comma_ i am sorry to hear that ,1,1
+Professor assigns a heavy workload right before a break.,Stressed,i am glad to hear that you are right now ,1,1
+Feeling relieved after a successful semester.,Relieved,i am sure you will be able to get a new job ,1,1
+Feeling unprepared for a class discussion.,Anxious,i am sure you will be fine ,1,1
+Feeling proud after helping a classmate understand a concept.,Proud,i am proud of her ,1,1
+Feeling overwhelmed by the pressure to succeed.,Stressed,i am sure it will be alright ,1,1
+Feeling anxious about applying for graduate schools.,Anxious,i am sure you will be fine ,1,1
+Feeling hopeful about the future after a successful internship.,Hopeful,i hope so i think i will get the job ,1,1
+Feeling unprepared for a class debate.,Anxious,i was in the <OUT> for a while <OUT> i was so nervous ,1,1
+Feeling guilty about canceling plans with a friend due to studying.,Guilty,i am feeling a bit upset about it ,1,1
+Feeling surprised by a bad grade on an assignment I thought I aced.,Surprised,green <OUT> <OUT> <OUT> ,0,1
+Feeling nostalgic about visiting my old school.,Nostalgic,i was feeling good about my childhood last year of high school ,1,1
+Feeling frustrated about a classmate who talks excessively in class.,Frustrated,no but i am not sure how to deal with it ,1,1
+Feeling furious about a lost opportunity due to a technical issue.,Furious,i am so upset about it ,1,1
+Feeling disappointed about a bad grade that affects my scholarship.,Disappointed,i am sure you will be okay ,1,1
+Feeling empathetic towards a classmate going through a tough time.,Caring,i am glad you were able to help you ,1,1
+Feeling trusting towards a mentor who is guiding my career path.,Trusting,i am sure you will be a good guy ,1,1
+Feeling disgusted by a disrespectful comment overheard in the library.,Disgusted,i would have been so embarrassed ,1,1
+Feeling nervous about meeting a potential employer at a career fair.,Anxious,job for sure ,1,1
+Feeling hopeful about getting accepted into my dream grad program.,Hopeful,i am sure you will be in the future ,1,1
+Feeling frustrated about a broken printer right before a deadline.,Frustrated,i am sure you will have a good time ,1,1
+Feeling anxious about giving a presentation in a large lecture hall.,Anxious,i am sure you will be fine ,1,1
+Feeling overwhelmed by the number of upcoming deadlines.,Stressed,i am so hopeful for the future of the world ,1,1
+Professor uses confusing jargon during a lecture.,Confused,i am so sorry to hear that ,1,1
+Feeling proud after successfully balancing schoolwork and social life.,Proud,i had to get an a <OUT> <OUT> and my girlfriend was born in the <OUT> so i was so happy ,1,1
+Feeling jealous of a classmate who gets a coveted internship.,Jealous,i am sure you will be fine ,1,1
+Feeling grateful for the opportunity to participate in a research project.,Grateful,we are going to church to our country ,1,1
+Feeling anxious about giving a presentation in front of a professor.,Anxious,i hope so too ,1,1
+Feeling content after a productive study session.,Content,i am feeling very positive about it ,1,1
+Feeling disappointed about missing out on a scholarship opportunity.,Disappointed,i am sorry to hear that ,1,1
+Feeling overwhelmed by the pressure to find a job after graduation.,Stressed,i understand it was a hard time to get in the <OUT> and the best of luck ,0,1
+Feeling relieved after a successful final presentation.,Relieved,i am sure it was an accounting test ,1,1
+Feeling unprepared for a pop quiz on a new chapter.,Anxious,i am sure you will be fine ,1,1
+Feeling proud after overcoming stage fright during a presentation.,Proud,i agree with you ,1,1
+Feeling burnt out from a long semester with no breaks.,Stressed,i am sure it will be a good feeling for you ,1,1
+Feeling anxious about the financial burden of student loans.,Anxious,i am sure you will be fine ,1,1
+Feeling hopeful about landing a summer internship abroad.,Hopeful,i hope so too ,1,1
+Feeling unprepared for a class debate on a complex topic.,Anxious,i hope you do well ,1,1
+Feeling guilty about neglecting my health due to studying.,Guilty,i feel really bad about it i feel like i have been feeling about it since i was a pharmacy and i feel really ,1,1
+Feeling surprised by a high grade on an assignment I thought I failed.,Surprised,green <OUT> <OUT> <OUT> in front of me ,0,1
+Feeling nostalgic about a specific professor who made a difference.,Nostalgic,i loved it as a kid i was in the 90s and it was a nice feeling,1,1
+Feeling frustrated about a classmate who doesn't contribute to a group project.,Frustrated,i am glad you are feeling better ,1,1
+Feeling furious about a professor's harsh grading policy.,Furious,i agree with you ,1,1
+Feeling disappointed about a bad grade that affects my graduation timeline.,Disappointed,i am sure you will be able to get some rest in the future ,1,1
+Feeling empathetic towards a classmate struggling with a personal loss.,Caring,i am sorry to hear that ,1,1
+Feeling trusting towards a career counselor who is helping with job search.,Trusting,that is good to hear what kind of job is it ,1,1
+Feeling disgusted by a messy common area in my dorm building.,Disgusted,mental illness with a lot of mental illness and i dont know what to do ,1,1
+Feeling nervous about meeting a professor for the first time during office hours.,Anxious,scheduled for 40,0,1
+Feeling hopeful about getting a good recommendation letter from a professor.,Hopeful,i am sure that will be a good thing for you ,1,1
+Feeling frustrated about a computer crash right before saving an assignment.,Frustrated,i am sorry_comma_ i hope you have a good time ,1,1
+Feeling anxious about giving a presentation in a foreign language class with limited fluency.,Anxious,pharmacy tech <OUT> <OUT> <OUT> etc ,0,1
+Feeling overwhelmed by the sheer volume of course readings.,Stressed,i am sure it will be alright ,1,1
+Professor assigns a group project with incompatible team members.,Frustrated,i am sure he will be okay ,1,1
+Feeling proud after successfully defending my thesis/dissertation.,Proud,i am so happy for you ,1,1
+Feeling envious of classmates who seem to have a perfect social life.,Jealous,envious i am envious of my friends ,1,1
+Feeling grateful for the opportunity to study abroad.,Grateful,i am sure you will be happy for you ,1,1
+Feeling anxious about making friends in a new city for an internship.,Anxious,i hope you have a good time ,1,1
+Feeling content after a relaxing weekend break from studying.,Content,i bet you are tired ,1,1
+Feeling disappointed about a canceled campus event I was looking forward to.,Disappointed,area for work and a few hours away from work ,1,1
+Feeling overwhelmed by the pressure to choose a career path.,Stressed,i am feeling a bit worried about the weekend ,1,1
+Feeling relieved after a successful defense of a research proposal.,Relieved,i am going to have a job interview today ,1,1
+Feeling unprepared for a class discussion on a controversial topic.,Anxious,i am sure you will be alright ,1,1
+Feeling proud after tutoring a classmate and helping them understand a concept.,Proud,school and a few months ago_comma_ it was a big moment ,1,1
+Feeling burnt out from juggling multiple part-time jobs.,Stressed,i am feeling a bit worried about the outcome of my life ,1,1
+Feeling anxious about the future after graduation.,Anxious,i am so ready for the new school ,1,1
+Feeling hopeful about landing a dream job after several interviews.,Hopeful,i hope you do well ,1,1
+Feeling unprepared for a surprise quiz on a recently covered topic.,Anxious,i am sure you will be alright ,1,1
+Feeling guilty about spending too much time on social media and neglecting studies.,Guilty,drank sometimes as a child ,1,1
+Feeling surprised by a random act of kindness from a stranger on campus.,Surprised,best friend ,0,1
+Feeling nostalgic about a favorite professor's retirement.,Nostalgic,i agree with you there are a lot of people in the <OUT> ,1,1
+Feeling frustrated about a noisy dorm environment that disrupts studying.,Frustrated,i agree with you its so annoying to deal with ,1,1
+Feeling furious about a classmate who plagiarizes in a group project.,Furious,i would be too ,1,1
+Feeling apprehensive about asking for a recommendation letter.,Apprehensive,i was worried about the pharmacy tech and i noticed a lot of people noticed ,1,1
+Feeling impressed by a classmate's creative project presentation.,Impressed,i agree with you there are a lot of people like that ,1,1
+Feeling disappointed about missing out on a club event due to illness.,Disappointed,i am going to be a pharmacy today and i cant wait ,1,1
+Feeling anticipated about attending a career fair.,Anticipating,i am feeling positive about it ,1,1
+Feeling disgusted by finding mold in my dorm room.,Disgusted,no i am not sure what to expect to do anything ,1,1
+Feeling surprised by a professor remembering my name.,Surprised,i was so proud of my father when i was a kid ,1,1
+Feeling nostalgic about a favorite hangout spot near campus.,Nostalgic,i am sure you will be a good place to be available ,1,1
+Feeling ashamed of a bad grade I received.,Ashamed,i am ashamed of the best times of my life ,1,1
+Feeling guilty about procrastinating on studying for an important exam.,Guilty,i feel like i have been in a better place in my life ,1,1
+Feeling hopeful about reconnecting with an old friend from high school.,Hopeful,i am sure you will be okay ,1,1
+Feeling unprepared for a class presentation due to technical difficulties.,Unprepared,i was so nervous and ready to go to the pharmacy today ,1,1
+Feeling proud after overcoming a fear of public speaking.,Proud,that is great to hear ,1,1
+Feeling overwhelmed by the amount of information to learn in a short time.,Stressed,funds a power for a couple of weeks ,1,1
+Feeling anxious about the results of a scholarship application.,Anxious,i am sure you will be fine ,1,1
+Feeling hopeful about getting published in a research journal.,Hopeful,i hope you get it ,1,1
+Feeling frustrated about a lack of sleep due to a noisy roommate.,Frustrated,to be stuck on a road trip to work ,1,1
+Feeling disappointed about a canceled flight home for the holidays.,Disappointed,i am sure you will be a good parent then ,1,1
+Feeling envious of a classmate's natural talent for a particular subject.,Jealous,you will be better than the <OUT> of your career ,1,1
+Feeling grateful for the support of my family during a difficult time.,Grateful,came to church in a few months ,1,1
